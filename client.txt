@@ -1,0 +1,6 @@
+GM123741;Mazen;Ali;B;Male;Tanger;06125872;mazen@gmail.com;Camry;Toyota; ABC123;noir;500;2/2/24;2/6/24;5;2500.0
+GK128792;Tariq;med;C;Male;Rabat;07025555;Tariq@gmail.com; 3 Series;BMW;MNO654;rouge;600;2/5/24;2/7/24;2;1200.0
+KV12368452;Yacin;abdo;B;Male;Tetouan;067821222;yacin@gmail.com;Altima;Nissan;JKL321;bleu;900;2/5/24;2/10/24;5;4500.0
+ML1233587823;Djihad;said;b;Male;Fes;067855555;Djihad@gmail.com; Malibu; Chevrolet;GHI987;Noir;700;2/6/24;2/16/24;10;7000.0
+QZ123582;Omar;Taha;B;Male;Casa;074552323;omar@gmail.com; Mustang;Ford; DEF789;Gris;800;2/1/24;2/15/24;15;12000.0
+HM0215785;Yazen;Hazen;C;Male;Martil;0677744;yazen@gmail.com; Accord;Honda;XYZ456;violet;400;2/1/24;2/20/24;20;8000.0

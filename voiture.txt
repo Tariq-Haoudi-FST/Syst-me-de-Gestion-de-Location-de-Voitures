@@ -1,0 +1,6 @@
+1; ABC123;500;Toyota;Camry;Essence
+2;XYZ456;400;Honda; Accord;Électrique
+3; DEF789;800;Ford; Mustang;Diesel
+4;GHI987;700; Chevrolet; Malibu;Électrique
+5;JKL321;900;Nissan;Altima;Essence
+6;MNO654;600;BMW; 3 Series;Électrique
